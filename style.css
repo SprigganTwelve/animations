@@ -3,6 +3,8 @@
 
 body{
     background-image: url( "images/FondoWeb.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .banner{
